@@ -39,5 +39,7 @@ def lambda_handler(event, context):
             "Nombre": "Juan Manuel Araujo Carcaño",
             "Grado": "9",
             "Grupo": "A"
+
+
         }),
     }
